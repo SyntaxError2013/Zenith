@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <!-- <Button
+        android:layout_alignParentTop="true"
+        android:id="@+id/bLeave"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=" Leave Group" /> -->
+    
+    <in.co.sdslabs.managecontacts.LogView
+        android:id="@+id/lvChat"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:layout_above="@+id/etMsg"
+        android:layout_alignParentTop="true"
+        android:layout_below="@+id/bLeave"/>
+    
+     <EditText 
+        android:id="@+id/etMsg"
+        android:inputType="textMultiLine"
+        android:layout_above="@+id/bSend"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Message"/>
+    <Button
+        android:layout_alignParentBottom="true"
+        android:id="@+id/bSend"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=" Send Message" />
+ 
+  
+
+</RelativeLayout>

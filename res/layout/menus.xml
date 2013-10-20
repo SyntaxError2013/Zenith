@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/homepage"
+        android:title="Homepage"
+        android:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/settings"
+        android:title="Update"/>
+
+    <item
+        android:id="@+id/masssms"
+        android:title="Multi-SMS"/>
+
+    <item
+        android:id="@+id/massemail"
+        android:title="Mailing"/>
+
+    <item
+        android:id="@+id/contactimport"
+        android:title="Import"/>
+   
+    <item
+        android:id="@+id/notifie"
+        android:title="Notifier"/>
+    
+</menu>
