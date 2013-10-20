@@ -58,8 +58,6 @@ public class notification3 extends Activity {
 			intentArray.add(pendingIntent);
 
 		}
-		Toast.makeText(getApplicationContext(), "Alarms Set..",
-				Toast.LENGTH_SHORT).show();
 		Intent i = new Intent(notification3.this, thirdsheet.class);
 		startActivity(i);
 

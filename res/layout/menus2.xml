@@ -3,8 +3,7 @@
 
     <item
         android:id="@+id/homepage"
-        android:icon="@drawable/images"
-        android:title="Homepage"
+        android:title="Back"
         android:showAsAction="ifRoom"/>
 
   

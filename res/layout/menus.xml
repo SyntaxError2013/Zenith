@@ -16,7 +16,7 @@
 
     <item
         android:id="@+id/massemail"
-        android:title="Mailing"/>
+        android:title="Group Mail"/>
 
     <item
         android:id="@+id/contactimport"

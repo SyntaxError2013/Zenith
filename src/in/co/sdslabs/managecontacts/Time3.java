@@ -49,7 +49,7 @@ public class Time3 extends BroadcastReceiver {
 		CharSequence message = message1;
 		PendingIntent contentIntent = PendingIntent.getActivity(context, 0,
 				myIntent, 0);
-		Notification notif = new Notification(R.drawable.ic_launcher,
+		Notification notif = new Notification(R.drawable.birth_icon,
 				"Birthday!!", System.currentTimeMillis());
 		notif.flags = Notification.FLAG_INSISTENT;
 		notif.setLatestEventInfo(context, from, message, contentIntent);

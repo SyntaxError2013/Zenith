@@ -21,25 +21,28 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int blue1=0x7f020000;
-        public static final int blue2=0x7f020001;
-        public static final int ic_launcher=0x7f020002;
-        public static final int images=0x7f020003;
-        public static final int img1=0x7f020004;
-        public static final int img2=0x7f020005;
-        public static final int img3=0x7f020006;
-        public static final int img4=0x7f020007;
-        public static final int img5=0x7f020008;
-        public static final int img6=0x7f020009;
-        public static final int img7=0x7f02000a;
-        public static final int importcontacts=0x7f02000b;
-        public static final int massemail=0x7f02000c;
-        public static final int massemail1=0x7f02000d;
-        public static final int wall=0x7f02000e;
+        public static final int back=0x7f020000;
+        public static final int birth_icon=0x7f020001;
+        public static final int blue1=0x7f020002;
+        public static final int blue2=0x7f020003;
+        public static final int ic_launcher=0x7f020004;
+        public static final int icon=0x7f020005;
+        public static final int images=0x7f020006;
+        public static final int img1=0x7f020007;
+        public static final int img2=0x7f020008;
+        public static final int img3=0x7f020009;
+        public static final int img4=0x7f02000a;
+        public static final int img5=0x7f02000b;
+        public static final int img6=0x7f02000c;
+        public static final int img7=0x7f02000d;
+        public static final int importcontacts=0x7f02000e;
+        public static final int massemail=0x7f02000f;
+        public static final int massemail1=0x7f020010;
+        public static final int wall=0x7f020011;
     }
     public static final class id {
         public static final int LinearLayout1=0x7f080001;
-        public static final int action_settings=0x7f08001b;
+        public static final int action_settings=0x7f08001a;
         public static final int bJoin=0x7f080000;
         public static final int bLeave=0x7f080008;
         public static final int bSend=0x7f080009;
@@ -50,13 +53,13 @@ public final class R {
         public static final int button5=0x7f08000e;
         public static final int contactimport=0x7f080015;
         public static final int editText1=0x7f080017;
-        public static final int editText2=0x7f08001a;
-        public static final int editText3=0x7f080019;
+        public static final int editText2=0x7f080019;
+        public static final int editText3=0x7f080018;
         public static final int etMsg=0x7f080007;
         public static final int homepage=0x7f080011;
         public static final int lblListHeader=0x7f08000f;
         public static final int lblListItem=0x7f080010;
-        public static final int leaveGroup=0x7f08001c;
+        public static final int leaveGroup=0x7f08001b;
         public static final int lvChat=0x7f080006;
         public static final int lvExp=0x7f080004;
         public static final int massemail=0x7f080014;
@@ -65,7 +68,6 @@ public final class R {
         public static final int notifie=0x7f080016;
         public static final int settings=0x7f080012;
         public static final int textView1=0x7f080002;
-        public static final int textView2=0x7f080018;
         public static final int textView3=0x7f080003;
     }
     public static final class layout {
@@ -73,20 +75,18 @@ public final class R {
         public static final int activity_about_us=0x7f030001;
         public static final int activity_main=0x7f030002;
         public static final int add_contacts=0x7f030003;
-        public static final int developer=0x7f030004;
-        public static final int edittext=0x7f030005;
-        public static final int group_chat=0x7f030006;
-        public static final int homepage=0x7f030007;
-        public static final int list_group=0x7f030008;
-        public static final int list_item=0x7f030009;
-        public static final int menus=0x7f03000a;
-        public static final int menus1=0x7f03000b;
-        public static final int menus2=0x7f03000c;
-        public static final int menus3=0x7f03000d;
-        public static final int message=0x7f03000e;
-        public static final int moreinfo=0x7f03000f;
-        public static final int new1=0x7f030010;
-        public static final int settings=0x7f030011;
+        public static final int edittext=0x7f030004;
+        public static final int group_chat=0x7f030005;
+        public static final int homepage=0x7f030006;
+        public static final int list_group=0x7f030007;
+        public static final int list_item=0x7f030008;
+        public static final int menus=0x7f030009;
+        public static final int menus1=0x7f03000a;
+        public static final int menus2=0x7f03000b;
+        public static final int menus3=0x7f03000c;
+        public static final int message=0x7f03000d;
+        public static final int new1=0x7f03000e;
+        public static final int settings=0x7f03000f;
     }
     public static final class menu {
         public static final int main=0x7f070000;
